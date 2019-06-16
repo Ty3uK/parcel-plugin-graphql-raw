@@ -3,7 +3,7 @@
   <img alt="graphql" src=".assets/graphql.png" height="100">
 </p>
 
-[![Travis CI Build Status](https://travis-ci.org/Ty3uK/parcel-plugin-graphql-raw.svg?branch=master)](https://travis-ci.org/Ty3uK/parcel-plugin-graphql-raw)
+[![Travis CI Build Status](https://travis-ci.com/Ty3uK/parcel-plugin-graphql-raw.svg?branch=master)](https://travis-ci.com/Ty3uK/parcel-plugin-graphql-raw)
 [![Dependencies](https://david-dm.org/Ty3uK/parcel-plugin-graphql-raw.svg?branch=master)](https://david-dm.org/Ty3uK/parcel-plugin-graphql-raw)
 [![npm package](https://img.shields.io/npm/v/parcel-plugin-graphql-raw.svg)](https://www.npmjs.com/package/parcel-plugin-graphql-raw)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
