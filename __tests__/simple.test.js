@@ -17,7 +17,7 @@ const getBundler = (entryFiles) => {
     logLevel: 0
   });
 
-  // wrapWithPlugin(bundlerInstance);
+  wrapWithPlugin(bundlerInstance);
 
   return bundlerInstance;
 };
