@@ -1,0 +1,3 @@
+node_modules
+__tests_assets__/__dist__
+.DS_Store
