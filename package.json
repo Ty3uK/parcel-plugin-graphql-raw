@@ -1,7 +1,7 @@
 {
   "name": "parcel-plugin-graphql-raw",
   "description": "Allows Parcel to export GraphQL files as plain text",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/Ty3uK/parcel-plugin-graphql-raw",
   "author": "Maksim Karelov <max.karelov@gmail.com>",
