@@ -1,6 +1,6 @@
-const Asset = require('parcel/src/Asset');
+const Bundler = require('parcel');
 
-class GraphqlRawAsset extends Asset {
+class GraphqlRawAsset extends Bundler.Asset {
   constructor(name, options) {
     super(name, options);
     this.type = 'js';
